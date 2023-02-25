@@ -1,2 +1,2 @@
-# ValueZenLiveServer
-Value Zen Live Server
+# ValueZen_Staging
+ValueZen Staging Build
